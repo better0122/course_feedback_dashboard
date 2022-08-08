@@ -1,0 +1,13 @@
+name: course_feedback_dashboard_JunjieYan
+title: course_feedback_dashboard_JunjieYan
+username:
+account: nyuprof
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6736164
+bundleId: 6164054
+url: https://nyuprof.shinyapps.io/course_feedback_dashboard_JunjieYan/
+when: 1659583708.5286
+lastSyncTime: 1659583708.52872
+asMultiple: FALSE
+asStatic: FALSE
